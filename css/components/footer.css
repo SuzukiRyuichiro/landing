@@ -1,0 +1,29 @@
+.footer {
+  background-color: #F90013;
+  width: 100%;
+  bottom: 0;
+  text-align: center;
+}
+
+.icons li {
+  display: inline;
+}
+
+.icon {
+    font-size: 50px;
+    margin: 0 20px;
+    color: white;
+}
+
+.icon:hover {
+  color: #888888;
+  transition: .6s;
+}
+
+footer h4 {
+  margin-bottom: 0px;
+}
+
+footer {
+  padding: 20px;
+}

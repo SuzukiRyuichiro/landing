@@ -1,0 +1,11 @@
+.ok-btn {
+  text-decoration: none;
+  border-radius: 5px;
+  background-color: #F90013;
+  padding: 10px;
+  color: white;
+}
+
+.ok-btn:hover {
+  background-color: rgb(200, 0, 0);
+}
